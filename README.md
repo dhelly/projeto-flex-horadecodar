@@ -18,8 +18,8 @@ Desenvolver habilidades em HTML e CSS
 ## Projeto desenvolvido
 
 #### Web
-![Projeto Web](/home/jaqueline/Documents/Udemy_html_css_free/projeto/.git_assets/final_web.png  "Projeto Web")
+![Projeto Web](https://github.com/dhelly/projeto-flex-horadecodar/blob/main/.git_assets/final_web.png  "Projeto Web")
 
 #### Mobile
 
-![Projeto mobile](/home/jaqueline/Documents/Udemy_html_css_free/projeto/.git_assets/final_mobile.png  "Projeto mobile")
+![Projeto mobile](https://github.com/dhelly/projeto-flex-horadecodar/blob/main/.git_assets/final_mobile.png  "Projeto mobile")
